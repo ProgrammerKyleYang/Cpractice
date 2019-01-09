@@ -1,0 +1,650 @@
+    1  sudo vim /etc/default/rcS  
+    2  sudo apt-get install build-essential
+    3  sudo su
+    4  root
+    5  sudo su
+    6  cd /
+    7  sudo apt-get install build-essential
+    8  ps -A | grep apt
+    9  $ sudo kill -9 processnumber
+   10  sudo kill -9 processnumber
+   11  sudo rm /var/lib/dpkg/lock
+   12  sudo dpkg --configure -a
+   13  sudo apt update
+   14  sudo apt-get install build-essential
+   15  sudo apt-get install -f
+   16  ps -A | grep apt-get
+   17  sudo apt-get install -f
+   18  sudo apt update
+   19  sudo apt-get install -f
+   20  sudo rm /var/cache/apt/archives/lock
+   21  sudo rm /var/lib/dpkg/lock
+   22  sudo apt-get install -f
+   23  sudo apt-get install build-essential
+   24  sudo apt-get install git
+   25  git config --global user.name "ProgrammerKyleYang"
+   26  git config --global user.email "601889127@qq.com"
+   27  cd /
+   28  cd /usr/lib
+   29  ls
+   30  sudo mkdir jvm
+   31  cd jvm
+   32  cd 
+   33  cd Download
+   34  cd Downloads
+   35  ls
+   36  cd jdk-10.0.1_linux-x64_bin
+   37  ls
+   38  mv jdk-10.0.1 /usr/lib/jvm/
+   39  sudo mv jdk-10.0.1 /usr/lib/jvm/
+   40  cd /usr/lib/jvm
+   41  ls
+   42  cd jdk-10.0.1/bin
+   43  sudo gedit /etc/profile 
+   44  java -version
+   45  cd/
+   46  java -version
+   47  java10-version
+   48  sudo gedit /etc/profile 
+   49  java-version
+   50  cd
+   51  java
+   52  sudo gedit /etc/profile 
+   53  java -version
+   54  java-version
+   55  sudo gedit /etc/profile 
+   56  java-version
+   57  root
+   58  sudo su
+   59  sudo root
+   60  sudo su
+   61  sudo su
+   62  sudo apt remove sogoupinyin
+   63  cd 
+   64  cd/Downloads
+   65  cd Downloads
+   66  sudo dpkg -i sogoupinyin_2.2.0.0108_amd64.deb
+   67  reboot
+   68  sudo ln -s /home/kyle/Software/pycharm-2018.1.3/bin/pycharm.sh /usr/bin/pycharm
+   69  sudo gedit /usr/share/applications/Pycharm.desktop
+   70  sudo gedit /usr/share/applications/Clion.desktop
+   71  sudo su
+   72  cd
+   73  Desktop
+   74  cd Desktop
+   75  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   76  sudo apt install libappindicator1 libdbusmenu-glib4 libdbusmenu-gtk4 libindicator7 libpango1.0-0 libpangox-1.0-0
+   77  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   78  sudo apt install gdebi-core
+   79  sudo gdebi google-chrome-stable_current_amd64.deb
+   80  sudo apt update
+   81  sudo dpkg -i youdao-dict_1.0.2~ubuntu_amd64.deb
+   82  sudo apt-get -f install
+   83  sudo apt-get install tesseract-ocr
+   84  sudo dpkg -i youdao-dict_1.0.2~ubuntu_amd64.deb
+   85  sudo dpkg -i youdao-dict_1.1.0-0-deepin_amd64.deb
+   86  sudo apt-get -f dist-upgrade
+   87  sudo dpkg -i youdao-dict_1.1.0-0-deepin_amd64.deb
+   88  cd /Downloads
+   89  cd Downloads
+   90  ls
+   91  sudo dpkg -i youdao-dict_1.1.0-0-ubuntu_amd64.deb 
+   92  youdao-dict
+   93  sudo apt install python3-xlib
+   94  youdao-dict
+   95  pip install xgboost
+   96  sudo apt install python-pip
+   97  sudo apt --fix-broken install
+   98  sudo apt install python-pip
+   99  pip install xgboost
+  100  sudo apt-get install python-setuptools
+  101  sudo apt-get install python3.6-setuptools
+  102  sudo apt install openvpn
+  103  cd Software
+  104  ls
+  105  sudo install openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  106  sudo instal openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  107  sudo atp get install openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  108  sudo apt get install openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  109  sudo apt-get install openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  110  sudo dpkg -i openvpn-as-2.5.2-Ubuntu16.amd_64.deb
+  111  open vpn
+  112  openvpn
+  113  sudo apt install openvpn
+  114  openvpn --version
+  115  cd
+  116  ls
+  117  cd C&C++Code
+  118  ld
+  119  cd /
+  120  ls
+  121  cd ./
+  122  ld
+  123  cd ./
+  124  ls
+  125  cd root
+  126  ls
+  127  cd root
+  128  cd /root
+  129  cd \root
+  130  cd //
+  131  ls
+  132  cd /home
+  133  ls
+  134  cd /kyle
+  135  ls
+  136  cd /kyle
+  137  cd ./
+  138  cd ../
+  139  ls
+  140  cd bin
+  141  ls
+  142  cd ../
+  143  cd lh
+  144  lh
+  145  cd /root
+  146  root
+  147  sudo root
+  148  root
+  149  cd /home/kyle
+  150  cd /home
+  151  ls
+  152  cd //kyle
+  153  cd /kyle
+  154  lh kyle
+  155  ls-l kyle
+  156  root
+  157  ped
+  158  pwd
+  159  cd ../
+  160  ls
+  161  cd ./root
+  162  cd /root
+  163  su root
+  164  exit
+  165  ls
+  166  cd /桌面
+  167  cd 桌面
+  168  ls
+  169  lh
+  170  l
+  171  ls
+  172  la
+  173  cd AC-code
+  174  ls
+  175  cd ../..
+  176  cd Desktop
+  177  ls
+  178  al
+  179  ls-al
+  180  ls al
+  181  ls-l
+  182  ls-al
+  183  ls -l
+  184  ls -a
+  185  cd ./
+  186  ls
+  187  cd ./
+  188  cd
+  189  ls
+  190  cd Software
+  191  ls
+  192  cd clion-2018.1.2
+  193  cd bin
+  194  ls
+  195  java -jar JetbrainsCrack-2.9-release-enc.jar
+  196  cd /
+  197  sudo add-apt-repository ppa:webupd8team/java
+  198  sudo apt-get update
+  199  sudo apt-get install oracle-java8-installer
+  200  ls
+  201  cd Documents
+  202  ls
+  203  vim text1
+  204  cd Documents
+  205  ls
+  206  sudo apt install gcc g++
+  207  sudo apt install net-tools
+  208  sudo apt install curl
+  209  sudo apt-get install fonts-powerline
+  210  mkdir test
+  211  ls
+  212  cd test
+  213  vim text.cpp
+  214  ls
+  215  ls-a
+  216  ls -a
+  217  ls -l
+  218  chmod o-r text.cpp
+  219  ls
+  220  vim text.cpp
+  221  ll
+  222  chmod o+rw text.cpp
+  223  ll
+  224  ll-h
+  225  sl-h
+  226  ll -h
+  227  vim text.cpp
+  228  cd /
+  229  ifconfig
+  230  ping 192.168.63.1
+  231  ping www.baidu.com
+  232  ping 192.168.63.1
+  233  ping www.baidu.com
+  234  ping 192.168.63.1
+  235  ping 192.168.63.0
+  236  ping www.baidu.com
+  237  ifconfig
+  238  sudo install ssh
+  239  sudo apt-get  install openssh-sever
+  240  sudo apt-get updata
+  241  sudo apt-get update
+  242  sudo apt-get  install openssh-sever
+  243  sudo apt-get  install openssh-server
+  244  ping 192.168.63.1
+  245  ls
+  246  cd /home
+  247  ls
+  248  cd yle
+  249  cd kyle
+  250  ls
+  251  cd~/
+  252  cd ~/
+  253  cd Documents
+  254  ls
+  255  cd test
+  256  ls
+  257  ll
+  258  cat text.cpp
+  259  gcc text.cpp -o text
+  260  vim text.cpp
+  261  gcc text.cpp -o text
+  262  vim text.cpp
+  263  gcc text.cpp -o text
+  264  ls
+  265  vim text.cpp
+  266  mv text.cpp quickSort.cpp
+  267  ls
+  268  cp quicksort.cpp  ~/Documents 
+  269  cp quickSort.cpp  ~/Documents 
+  270  cd .
+  271  cd ..
+  272  ls
+  273  mv quickSort.cpp quicksort.txt
+  274  ls
+  275  vim quicksort
+  276  mv quicksort.txt quicksort.cpp
+  277  ls
+  278  vim quicksort.cpp
+  279  ll
+  280  cd test
+  281  ls
+  282  mv quickSort.cpp quicksort.cpp
+  283  ls
+  284  cp quicksort.cpp ./
+  285  cp quicksort.cpp ../01
+  286  ls
+  287  cd ..
+  288  ls
+  289  vim 01
+  290  ll
+  291  mv 01 qs.txt
+  292  ls
+  293  vim qs.txt
+  294  cd /
+  295  history
+  296  vim bash_history
+  297  history >20190102.tar
+  298  ls
+  299  cd bin
+  300  ls
+  301  cd ..
+  302  cd ~/Documents/test
+  303  ls
+  304  3
+  305  vim quicksort
+  306  vim quicksort.cpp
+  307  cd ..
+  308  ls
+  309  vim qs.txt
+  310  cd test
+  311  ls
+  312  gcc quicksort.cpp -o qs
+  313  ls
+  314  vim hello.c
+  315  ls
+  316  rm hello.c
+  317  ls
+  318  vim hello.cpp
+  319  cd ./
+  320  sudo ufw status
+  321  sudo ufw disable
+  322  sudo ufw allow 22
+  323  ping 192.168.63.1
+  324  sudo apt-get install openssh-server
+  325  sudo apt install net-tools
+  326  sudo apt install ssh
+  327  sudo apt install curl
+  328  sudo apt-get install fonts-powerline
+  329  ping 192.168.63.1
+  330  ping 192.168.63.0
+  331  ping 192.168.63.1
+  332  sudo apt install ssh
+  333  sudo ufw status
+  334  sudo ufw disable
+  335  sudo ufw allow 22
+  336  ls
+  337  cd Documents
+  338  ls
+  339  vim quicksort.cpp 
+  340  sudo apt install curl
+  341  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  342  sudo
+  343  su
+  344  su root
+  345  su -
+  346  cd //
+  347  ls
+  348  cd bin
+  349  ls
+  350  cd ./
+  351  cd ..
+  352  ls
+  353  cd root/
+  354  cd root
+  355  sudo ufw status
+  356  sudo ufw disable
+  357  sudo ufw allow 22
+  358  ping 192.168.63.1
+  359  su
+  360  su -
+  361  sudo passwd root
+  362  su -
+  363  ls
+  364  cd:
+  365  cd ..
+  366  sudo /etc/init.d/ssh restar
+  367  ps -e | grep ssh
+  368  sudo vi /etc/ssh/ssh_convfig
+  369  ls
+  370  dc etc
+  371  cd etc
+  372  ls
+  373  cd ssh
+  374  ls
+  375  vim ssh_config
+  376  vim sshd_config
+  377  ll
+  378  cd root
+  379  su root
+  380  sudo passwd root
+  381  su root
+  382  cd /etc
+  383  cd passwd
+  384  vim passwd
+  385  ls
+  386  cd/home
+  387  ls
+  388  cd /home
+  389  ls
+  390  cd kyle
+  391  ls
+  392  mv vimrc_v0.txt .vimrc
+  393  ls
+  394  ll
+  395  vim .bashrc
+  396  source .bashrc
+  397  vim .bashrc
+  398  source .bashrc
+  399  vim .bashrc
+  400  source .bashrc
+  401  vim vimrc
+  402  cat ,vimrc
+  403  cat .vimrc
+  404  ll
+  405  cd
+  406  cd ~
+  407  ls
+  408  cd Documents
+  409  ls
+  410  vim quicksort.cpp
+  411  cd ./
+  412  ls
+  413  cd Documents
+  414  ls
+  415  vim hello.c
+  416  gcc -o he
+  417  gcc -o hello hello.c
+  418  ls
+  419  ./hello
+  420  vi hello.c
+  421  gcc -o hello hello.c
+  422  ls
+  423  ./hello
+  424  clear
+  425  gcc -h
+  426  gcc -hel
+  427  gcc -h
+  428  gcc  h
+  429  gcc  help
+  430  gcc--help
+  431  gcc --help
+  432  clae
+  433  classifier_tester 
+  434  clear
+  435  ls
+  436  gcc -E hello.c -o hello.i
+  437  ls
+  438  gcc -E hello.c -o hello.i
+  439  vim hello.i
+  440  vim hello.c
+  441  gcc -S hello.i hello.o
+  442  gcc -S hello.i hello.s
+  443  gcc -S hello.i -o hello.s
+  444  ls
+  445  vim hello.s
+  446  ls
+  447  gcc -o hello.o hello.s
+  448  ls
+  449  ./ hello.o
+  450  ./hello.o
+  451  nm hello.o
+  452  clear
+  453  ls
+  454  rm hello
+  455  ls
+  456  gcc hello.c o hello.exe
+  457  gcc -o hello.c o hello.exe
+  458  gcc hello.c o hello.exe
+  459  gcc hello.c
+  460  ls
+  461  gcc hello.c -o hello.exe
+  462  ls
+  463  ./a.out
+  464  ls
+  465  ./hello.exe 
+  466  ./hello.o
+  467  history
+  468  ls
+  469  vim quicksort.cpp
+  470  ls
+  471  g++ -o qs quicksort.cpp
+  472  ls
+  473  ./qs
+  474  ls
+  475  cat quicksort.cpp
+  476  vim quicksort.cpp
+  477  cd Documents
+  478  ls
+  479  vim quicksort.cpp
+  480  g++ -o qs quicksort.cpp
+  481  ./qs
+  482  vim quicksort.cpp
+  483  cp quicksort.cpp qs.cc
+  484  ls
+  485  rm hello.exe  a.out qs.txt 
+  486  ld
+  487  ls
+  488  rm hello.o hello.i hello.i 
+  489  ls
+  490  rm hello.s
+  491  ls
+  492  vim qs.cc
+  493  ls
+  494  cd~
+  495  cd ~
+  496  ls
+  497  ll
+  498  ls
+  499  mv vimrc_v2_1804.txt .vimrc
+  500  ls
+  501  ll
+  502  cd Documents
+  503  ls
+  504  vim qs.cc
+  505  ls
+  506  cd ..
+  507  ls
+  508  mv vimrc_v0.txt .vimrc
+  509  ls
+  510  cd Documents
+  511  ls
+  512  vim qs.cc
+  513  cd ..
+  514  ls
+  515  mv vimrc_v2_1804.txt .vimrcc
+  516  ls
+  517  cd Documents/
+  518  ls
+  519  vim qs.cc
+  520  cd ..
+  521  ll
+  522  source .bashrc
+  523  vim .bashrc
+  524  source .bashrc
+  525  vim .bashrc
+  526  source .bashrc
+  527  vim .bashrc
+  528  source .bashrc
+  529  vim .bashrc
+  530  source .bashrc
+  531  cd~
+  532  cd `
+  533  exit
+  534  exit
+  535  quick
+  536  quite
+  537  exit
+  538  :q
+  539  history
+  540  sudo passwd root
+  541  su ykx
+  542  sudo passwd root
+  543  su ykx
+  544  su root
+  545  sudo passwd root
+  546  history > yyy
+  547  sudo passwd root
+  548  history > yyy.txt
+  549  ll
+  550  cd //
+  551  history > yyy.txt
+  552  ~
+  553  cd ~
+  554  ls
+  555  history > yyy.txt
+  556  ls
+  557  vim yyy.txt
+  558  mv yyy.txt 20190102杨凯翔.txt
+  559  ls
+  560  tar -czvf 20190102杨凯翔
+  561  tar -czvf 20190102杨凯翔.tar 20190102杨凯翔.txt
+  562  ls
+  563  mv 20190102杨凯翔.tar 20190102_yangkaixiang.tar
+  564  ls
+  565  sudo passwd kyle
+  566  ls
+  567  rm 20190102_yangkaixiang.tar 
+  568  ls
+  569  mv 20190102杨凯翔.txt 20190102_yangkaixiang.txt
+  570  ls
+  571  ls -l 20190102_yangkaixiang.txt 
+  572  ls
+  573  ls
+  574  history
+  575  cd ./
+  576  history > yyy
+  577  sudo history > yyy
+  578  su root
+  579  cd ./
+  580  exit
+  581  sudo apt install curl
+  582  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  583  sudo apt install automake
+  584  sudo apt install -y pkg-config
+  585  cd ~/.vim/plugged/ctags
+  586  cd /.vim/plugged/ctags
+  587  cd ~/.vim
+  588  l
+  589  ls
+  590  cd autoload
+  591  ls
+  592  cd plug.vim
+  593  ll
+  594  sudo apt install gcc g++
+  595  sudo apt install git
+  596  sudo apt install vim
+  597  sudo apt-get install fonts-powerline
+  598  ls
+  599  cd ~/
+  600  ls
+  601  cd Documents/
+  602  ls
+  603  vim quicksort.cpp 
+  604  cd
+  605  su ykx
+  606  ping www.baidu.com
+  607  ifconfig
+  608  ping www.baidu.com
+  609  ifconfig
+  610  ping www.baidu.com
+  611  ls
+  612  cd Documents/
+  613  ls
+  614  ls -l | grep "^-" | wc -l
+  615  locat /usr/include stdlib.h
+  616  locate /usr/include stdlib.h
+  617  vim -v
+  618  ld
+  619  ls
+  620  cd test
+  621  ls
+  622  vim hello.txt
+  623  la -l
+  624  ls
+  625  vim test.sh
+  626  ll
+  627  ./test.sh
+  628  chmod 755 test.sh
+  629  ls
+  630  ./test.sh
+  631  vim test.sh
+  632  ./test.sh
+  633  chmod 664 test.sh
+  634  ls
+  635  history
+  636  cd ..
+  637  ls
+  638  vim sort.cc 
+  639  g++ -o sort.cc 
+  640  vim sort.cc 
+  641  g++ -o sort.cc 
+  642  g++ -o sort sort.cc 
+  643  vim sort.cc 
+  644  g++ -o sort sort.cc 
+  645  vim sort.cc 
+  646  g++ -o sort sort.cc 
+  647  ls
+  648  ./sort
+  649  history
+  650  history > 20190104_yangkaixiang.txt

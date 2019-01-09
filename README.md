@@ -1,1 +1,2 @@
-# Kyle-s_C-
+#Simplely introduce
+this repository has build for practising C++ programing
