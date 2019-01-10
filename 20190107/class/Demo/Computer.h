@@ -4,11 +4,12 @@
 class Computer
 {
 public://规范为顶格
-	void setBrand(const char * brand);//声明
-	void setPrice(float price);
+	Computer(const char * brand,float price);
+//	void setBrand(const char * brand);//声明
+//	void setPrice(float price);
 	void print();
 private://封装,在类之外不可以直接访问，内部可以访问.这里可以类比struct
-	char _brand[20];
+	char * _brand;
 	float _price;
 
 };
