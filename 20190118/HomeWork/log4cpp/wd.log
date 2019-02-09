@@ -1,0 +1,5 @@
+2019-02-01 23:40:43,254 Category [ERROR] [Testlogsystem.cc:test0:16] this is an error messages!
+2019-02-01 23:40:43,254 Category [WARN] this is an warn messages!
+2019-02-01 23:40:43,255 Category [INFO] this is an info messages!
+2019-02-01 23:40:43,255 Category [DEBUG] this is an debug  messages!
+2019-02-01 23:40:43,256 Category [WARN] [Testlogsystem.cc:test2:34] this is a error message!

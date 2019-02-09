@@ -1,0 +1,6 @@
+2019-02-08 12:07:26,385 MyCategory [INFO] [TestMylogger.cc:main:18]this is a info message
+2019-02-08 12:07:26,387 MyCategory [ERROR] [TestMylogger.cc:main:19]this is a error message
+2019-02-08 12:07:26,387 MyCategory [DEBUG] [TestMylogger.cc:main:20]this is a debug message
+2019-02-08 12:07:49,719 MyCategory [INFO] [TestMylogger.cc:main:18]this is a info message
+2019-02-08 12:07:49,720 MyCategory [ERROR] [TestMylogger.cc:main:19]this is a error message
+2019-02-08 12:07:49,720 MyCategory [DEBUG] [TestMylogger.cc:main:20]this is a debug message
